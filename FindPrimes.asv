@@ -1,0 +1,7 @@
+nprimes = 0;
+n = 8;
+i = 2;
+while nprimes < n
+    numel(primes(i) 
+    
+end
